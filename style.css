@@ -9,14 +9,14 @@ body {
 /* Cabeçalho com menu de navegação */
 header {
   background-color: #2b1261;
-  padding:100px 0;
+  padding:100 0;
   text-align: center;
-  font-size: 30px;
+  font-size: 30;
 }
 
 nav a {
   color: white;
-  margin: 0 20px;
+  margin: 0 20;
   text-decoration: none;
   font-weight: bold;
 }
@@ -27,7 +27,7 @@ nav a:hover {
 
 /* Conteúdo principal */
 main {
-  max-width: 1000px;
+  max-width: 1000;
   margin: 20px auto;
   background-color: white;
   padding: 30px;
